@@ -96,22 +96,4 @@ document.addEventListener("click", function () {
     
     })
 
-/*let highestlev = 0; // Declare highestlev outside of the reset function
 
-function reset() {
-    started = false;
-    gameSeq = [];
-    userSeq = [];
-    level = 0;
-}
-
-let h3 = document.querySelector("h3");
-document.addEventListener("click", function () {
-    if (highestlev <= level) {
-        highestlev = level;
-        console.log(highestlev);
-        console.log(level);
-    }
-    h3.innerHTML = `Highest score <b>${highestlev}</b>`;
-    console.log("highest score")
-}); */
